@@ -19433,7 +19433,7 @@ input:focus {
 @font-face {
   font-family: 'Roboto';
   src: url("../../Roboto-Bold.eot");
-  src: url("../../fonts/Roboto/Roboto-Bold.eot?#iefix") format("embedded-opentype"), url("../../Roboto-Bold.woff2") format("woff2"), url("../../Roboto-Bold.woff") format("woff"), url("../../fonts/Roboto/Roboto-Bold.ttf") format("truetype");
+  src: url("../../fonts/Roboto/Roboto-Bold.eot?#iefix") format("embedded-opentype"), url("../../Roboto-Bold.woff2") format("woff2"), url("../../Roboto-Bold.woff") format("woff"), url("../../Roboto-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
